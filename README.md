@@ -1,7 +1,7 @@
 Hi, I'm Mati! 👋👋
 # About me
-:argentina: I'm from Buenos Aires, Argentina. I am 22 years old. :two::two:
-🎓I'm actually studying System Analyst at Ort, and Actuarial science at Universidad de Buenos Aires
+:argentina: I'm from Buenos Aires, Argentina. I am 22 years old. :two::two:  
+🎓I'm actually studying System Analyst at Ort, and Actuarial science at Universidad de Buenos Aires  
 
 <!--
 **MatiRosen/MatiRosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
