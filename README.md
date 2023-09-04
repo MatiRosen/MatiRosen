@@ -1,8 +1,5 @@
-Hi, I'm Mati! 👋👋
-# About me
-:argentina: I'm from Buenos Aires, Argentina. I am 22 years old. :two::two:  
-🎓I'm actually studying System Analyst at Ort, and Actuarial science at Universidad de Buenos Aires  
-
+_Hi! I'm MatiRosen_ 👋👋  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiRosen&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical)](https://github.com/MatiRosen/github-readme-stats)
 <!--
 **MatiRosen/MatiRosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
