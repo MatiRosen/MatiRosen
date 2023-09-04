@@ -1,5 +1,7 @@
-_Hi! I'm MatiRosen_ 👋👋  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiRosen&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical)](https://github.com/MatiRosen/github-readme-stats)
+<h1 align="center">Hi! I'm MatiRosen 👋👋</h1>
+<div align="center">
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiRosen&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical"/>
+</div>
 <!--
 **MatiRosen/MatiRosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
