@@ -19,7 +19,7 @@ I am a software professional focused on building scalable, high-performance mobi
 ---
 
 ### 		Connect with me
-[LinkedIn](https://www.linkedin.com/in/matias-rosenstein/) | [X]([https://matirosen.github.io/](https://x.com/MatiRosenDev))
+[LinkedIn](https://www.linkedin.com/in/matias-rosenstein/) | [X](https://x.com/MatiRosenDev/)
 
 <div align="center">
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiRosen&layout=donut&size_weight=0.5&count_weight=0.5&theme=radical"/>
