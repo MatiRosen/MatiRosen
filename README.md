@@ -15,6 +15,7 @@ I am a software professional focused on building scalable, high-performance mobi
 
 ### 		Current Projects & Contributions
 * **Descontame:** A KMP-driven mobile application for financial optimization.
+* **Taccn't:** A KMP-powered mobile application designed for the gluten-free community.
 
 ---
 
